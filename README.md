@@ -1,5 +1,5 @@
 # Mobula-age-structured-dynamics
-Code for the age-structured model done to look at the demographic effects of a Mobula japanica fishery
+Code for the age-structured model done to look at the demographic effects of a fishery for Mobula japanica
 
 Published in Pardo SA, Kindsvater HK, Cuevas-Zimbrón E, Sosa-Nishizaki O, Pérez-Jiménez JC, & Dulvy NK. 2016. Growth, mortality, and relative extinction risk of a data-sparse devil ray. Scientific Reports, 6, 33745 
 
